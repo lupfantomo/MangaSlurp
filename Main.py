@@ -13,6 +13,7 @@ import urllib
 import requests
 from lxml import html
 
+VERSION = "0.1"
 
 class MangaSlurp:
 
